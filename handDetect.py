@@ -1,5 +1,5 @@
 import cv2
-impot mediapipe as mp
+import mediapipe as mp
 import time
 import math
 import numpy as np
