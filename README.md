@@ -18,6 +18,6 @@ To Setup the system for development on your local machine, Please follow the ins
 
 1. Clone the repository to your machine
   ```bash
-  git clone github.com/lk221b/Virtual-Mouse
+  git clone https://github.com/lk221b/Virtual-Mouse
   ```
 2. Execute the '''AIVirtualMouse.py''' python file.
