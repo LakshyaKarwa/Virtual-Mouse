@@ -17,7 +17,7 @@ The fingertip location is mapped to RGB images to control the mouse cursor.
 To Setup the system for development on your local machine, Please follow the instructions below: 
 
 1. Clone the repository to your machine
-  '''bash
+  ```bash
   git clone github.com/lk221b/Virtual-Mouse
-  '''
+  ```
 2. Execute the '''AIVirtualMouse.py''' python file.
